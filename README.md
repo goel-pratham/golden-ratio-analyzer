@@ -1,20 +1,17 @@
 # Golden Ratio Analyzer
 
-This project analyzes whether a face follows the golden ratio (~1.618).
+A Python project that explores how facial proportions compare to the golden ratio (~1.618).
 
 ## Features
-- Calculates ratios
-- Compares with golden ratio
-- Shows deviation
-- Calculates mathematical beauty of a human face
-
-## Why I built this
-I wanted to explore how the golden ratio appears in human faces using code.
+- Calculates facial proportion ratios
+- Compares values against the golden ratio
+- Measures deviation from ideal proportions
+- Demonstrates mathematical analysis using Python
 
 ## Tech Used
 - Python
 
 ## Future Improvements
 - Add GUI
-- Support image-based analysis
-- Try to apply the same principle for other simple objects
+- Add image-based landmark detection
+- Use computer vision for automated analysis
