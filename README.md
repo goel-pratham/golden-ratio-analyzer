@@ -2,6 +2,11 @@
 
 A real-time computer vision project that analyzes facial proportions and tells how close they are to the golden ratio (~1.618).
 
+## Recognition
+
+1st Place in CBSE State-Level Science Exhibition  
+Selected for and Presented at the CBSE National Science Exhibition
+
 ## Features
 
 - Real-time webcam face detection
