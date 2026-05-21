@@ -1,6 +1,6 @@
 # Golden Ratio Analyzer
 
-A real-time computer vision project that analyzes facial proportions and tells how close they are to the golden ratio (~1.618).
+A real-time computer vision project exploring facial proportion analysis using the golden ratio (~1.618).
 
 ## Recognition
 
