@@ -22,6 +22,12 @@ A real-time computer vision project that analyzes facial proportions and tells h
 
 The program captures webcam input and detects facial landmarks using MediaPipe Face Mesh. It then measures multiple facial proportions and compares them with the golden ratio to generate an estimated symmetry score.
 
+## Demo Screenshots
+
+![Demo 1](demo1.png)
+
+![Demo 2](demo2.png)
+
 ## Installation
 
 Clone the repository:
